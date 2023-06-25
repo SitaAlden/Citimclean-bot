@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "citimclean-bot-no9n",
+  "private_key_id": "5c58631c33d974823e83d5333ef0c36bb7c2db9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/03eEU7nWANNc\n4SwqGxD2PL0JZ2NJ61jJJjn2McbO1uA3aRoWNqzkjEvSaSDgFHpcKwjC6nXGdn3P\nIpSsIWumTl7Vs8UD1egrLey+du+MB8/n202LXjWHncMTbeaNor+w17MyuzZCq+pV\nowQLXMukMktDc6DR/ieQ0SGwWo4myRT7dhrWCILr1xwbcrph5oAoYd09XDoZFmk/\nO7GPj1LWBktFuPADyl1YYtHo3ROOFFIwjcwLvAq+P5jlAy7BwPbWHnIzugLRLIpx\nbSCty54Ak/KF7VF09suYsUdXLEOn3XlqNp6txjzKSgPBql+KjZqfYbZoqTtYhiGV\ngK0nvSKTAgMBAAECggEAKFjZvB8CKPV+f3wrFmYgALLQzgANfbg/MfvU2CgrGUlP\n2sfEAWUZo26w6f5LuGYGQImaq6i2AfrdRmqPG89hvZahUtCfgUmGLkLYF02b3/eq\nrqlNW6GCn9Y6eEU255aSPCd6XRLMfGR9guqpSJyJhq0/cF4LNu/+sXKTY+0AFj76\n2v0QQPH7JSejL77O4t7V7vBrAAunZNNttiG5Zb27sjTArVn04d8SqfuygqFnuCTC\nnSbsZrCLh4wtkevOEw3i1yVSlcfSKGOVKD3zA4pax/elBydfBxUhBKTeDT89ZkHa\nD/kipLuDASqtLOEx8FaBXH7hd5YXBXE52u1IOVj0PQKBgQDmyouAIJr07ugQuo5I\nf8lLgDXezC2c8SLqO/Uu/Ajt4XHYUtLgD6//x51Bwtn4ajcDdzJsj7xaUK/fhCkv\nvyQzME7aBGtMig0HvF9Xg3S8H/vM7ug4qLOH9a8p31qiLO1L7z6jULuJc3vEOh29\nlgq1ffxRkeFT+YK8cNaNJPyr1QKBgQDUx13H4kiDDl4DOkz7WyjYLLORTo/RlYIb\nTQPdimBEn5aFnIBN5Ji3c3DD7ePvuAUJYR9lIydAegwFhR1pO6V8Ter5VxIreEvS\nTu0+Xu/B9MFR869Ikvwt+iq1fi76ZqmjCE3WDjr7dWFibKj8S8Vb6g669L68maYA\nmmWE0J1QxwKBgC3Y0KuMTpwXlZw1Iyy9zeQkvQ7cardBo9j6PjOuN6vh3DbIBUIj\ne6gJJHE63wgdOX6DwE2WpCkg3D8/xtrIUs2kbBWdSR90UTBXOG1vHNJ+XAwS7ajL\nwpZgtQJRb3TGDgHGrh/NWuPsQAr0LJJL6yawt14Q571B1LnQhJ6XWWZdAoGAX5Uv\ni5sa98R8dva5njBVKMbr41pnQL7os1rlYZ/HnwwRkfO7r0IBWGeDQICc5BLGMHBw\nqf4go9YvkEs76wngTPazl06F2wEvDkpmSJ5dFcPdE/NjyjY9EmpOxTjp4ZI8ogAY\n9w9tb4hLNuuY/b0L6z45X8KR7CcZayvwbrlH8gECgYEA0WhQWQnZKKyANlQpk9bf\nkkAMUFeqlfglTUjepDRNtIVFta8a8UWDySnKytVtmAW34H+eBIWh1NlllCLCy1MC\nEvcwiJMjonP8XFw6G6eU0rwxmKrLIiSHQq8KEmCLvr9sRunY0BH+o8imHM2OT5gG\nwafEOptPU0plSWoB/NQqdIg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "citimclean-bot@citimclean-bot-no9n.iam.gserviceaccount.com",
+  "client_id": "105531779277867921869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/citimclean-bot%40citimclean-bot-no9n.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

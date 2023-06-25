@@ -1,0 +1,64 @@
+{
+  "id": "03149f6e-0459-4cec-88a2-97d0296e75d6",
+  "name": "info-citim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "57c503ac-b02c-4c57-a055-2a870f6c71c2",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c9b0cc43-ce50-42d3-bf6f-83106c4445e9",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "INFO DESA CIKAMPEK TIMUR\nDesa Cikampek Timur merupakan bagian wilayah dari kabupaten Karawang, dengan penduduk yang cukup padat, luas wilayah Cikampek Timur mencapai ± 280 ha. Pada tahun 2021 jumlah penduduk mencapai 10.000 jiwa dengan 5.000 kepala keluarga dan meliputi 6 dusun, terdiri dari dusun Sukamaju, Cijalu, Sukajadi, Mekarjati, Bakanjati dan Jatirasa. Batas wilayah desa Cikampek Timur terdiri dari 4 bagian. Wilayah utara bersebelahan dengan Cikampek Kota, wilayah selatan berbatasan dengan Cinangka, sementara wilayah timur bersebelahan dengan Cikampek Selatan, dan wilayah barat berbatasan dengan Sarimulya."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

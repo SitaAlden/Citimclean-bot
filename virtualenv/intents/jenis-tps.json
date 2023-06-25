@@ -1,0 +1,50 @@
+{
+  "id": "2c788ac8-66bc-42c0-95cc-b63d49d25087",
+  "name": "jenis-tps",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20b7a8a6-95cd-4c31-936b-b8b8d06ca71c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Berikut adalah jenis-jenis tempat sampah berdasarkan jenisnya dan warna yang umum digunakan:\n-\t Tempat Sampah Organik: Warna hijau. Tempat sampah organik digunakan untuk membuang sampah organik seperti sisa makanan, daun, atau bahan organik lainnya.\n-\t Tempat Sampah Plastik: Warna biru. Tempat sampah plastik digunakan untuk membuang sampah plastik seperti botol plastik, kantong plastik, atau wadah plastik lainnya.\n-\t Tempat Sampah Kertas: Warna biru muda atau putih. Tempat sampah kertas digunakan untuk membuang sampah kertas seperti kertas bekas, koran, kemasan karton, atau kertas lainnya.\n-\t Tempat Sampah Logam: Warna abu-abu atau silver. Tempat sampah logam digunakan untuk membuang sampah logam seperti kaleng, tutup botol, atau benda-benda logam lainnya.\n-\t Tempat Sampah Kaca: Warna kuning atau hijau tua. Tempat sampah kaca digunakan untuk membuang sampah kaca seperti botol kaca, pecahan kaca, atau benda-benda kaca lainnya.\n-\t Tempat Sampah Elektronik: Warna ungu atau hitam. Tempat sampah elektronik digunakan untuk membuang sampah elektronik seperti ponsel, komputer, atau peralatan elektronik lainnya.\n-\t Tempat Sampah B3 (Bahan Berbahaya dan Beracun): Warna oranye atau merah. Tempat sampah B3 digunakan untuk membuang sampah yang mengandung bahan berbahaya.\n Tempat Sampah Umum: Warna abu-abu atau hitam. Tempat sampah umum adalah tempat sampah yang digunakan untuk membuang sampah secara umum tanpa memisahkan berdasarkan jenisnya."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

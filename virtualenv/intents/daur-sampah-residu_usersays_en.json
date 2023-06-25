@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d5f0c5fb-08f3-49c3-9e45-c31b5b4dc1ee",
+    "data": [
+      {
+        "text": "B3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7d445ba-4b4c-429c-852e-24c6aef6360f",
+    "data": [
+      {
+        "text": "bagaimana cara daur ulang sampah residu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2128d823-ba67-465b-b4a2-58af7de5e65c",
+    "data": [
+      {
+        "text": "daur ulang sampah residu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff063aa5-e1c2-4291-b92e-43c9d2801334",
+    "data": [
+      {
+        "text": "daur sampah residu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1abda15a-568d-42ef-ad59-3c023aa9be0a",
+    "data": [
+      {
+        "text": "residu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "810ee533-8493-4fd7-a579-a1c39bc51461",
+    "data": [
+      {
+        "text": "sampah residu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1b035ead-b4d0-4ce7-a327-318b1050eb60",
+    "data": [
+      {
+        "text": "TPS terdekat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d6ba879-04d2-43bd-929d-b02a2a814e23",
+    "data": [
+      {
+        "text": "TPS tempat sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04722f60-54ca-4981-bd67-967673d92734",
+    "data": [
+      {
+        "text": "TPS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b136c788-42d2-422f-874f-337731541239",
+    "data": [
+      {
+        "text": "tempat sampah terdekat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67f81c71-4891-4886-98fa-b109a2a5137c",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

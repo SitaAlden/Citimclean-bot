@@ -1,0 +1,84 @@
+[
+  {
+    "id": "7b01c2ca-94d0-498d-87dc-a576a22b6d3e",
+    "data": [
+      {
+        "text": "nomor hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5ebef28-28e6-4ea9-b12f-37f464b52645",
+    "data": [
+      {
+        "text": "nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8af0dce-346d-4be5-a383-b566fb2aaa3a",
+    "data": [
+      {
+        "text": "kontak darurat sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48278d67-7578-4469-81b0-d69945570b60",
+    "data": [
+      {
+        "text": "kontak sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9999fe9-62e2-41c0-852b-ce454dfbe488",
+    "data": [
+      {
+        "text": "kontak",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b9afac9-af76-40f1-abf0-15d2d964c44b",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

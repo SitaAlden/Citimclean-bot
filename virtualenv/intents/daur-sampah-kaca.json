@@ -1,0 +1,35 @@
+{
+  "id": "a2a0c27a-dc49-4a9a-8353-c86831d3d506",
+  "name": "daur-sampah-kaca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sampah atau limbah kaca tergolong sampah yang berbahaya bila dibuang di sembarang tempat, karena dikhawatirkan terinjak atau melukai anggota tubuh lainnya. Sampah kaca juga sangat sulit terurai di dalam tanah, dan diperlukan waktu ratusan tahun untuk dapat terurai.\nTerdiri dari : botol kaca dan apapun yang terbuat dari kaca dan tidak terpakai.\nDaur ulang yang dapat dilakukan : diolah kembali menjadi bahan baku kaca, miniatur mobil, bangunan, hiasan, sampai pajangan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

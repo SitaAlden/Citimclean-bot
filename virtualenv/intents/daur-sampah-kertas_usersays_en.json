@@ -1,0 +1,67 @@
+[
+  {
+    "id": "db0a9694-87d0-4e8b-a643-bcf39f03a645",
+    "data": [
+      {
+        "text": "bagaimana cara daur ulang sampah kertas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50fd097a-596c-47b2-a924-f4b1760ade8d",
+    "data": [
+      {
+        "text": "daur ulang sampah kertas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "293e87e0-62fe-4e6a-807f-e6b73e02bd64",
+    "data": [
+      {
+        "text": "daur sampah kertas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a528b00-459f-4093-9865-760abe3fa93f",
+    "data": [
+      {
+        "text": "kertas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6dd5f4e-2a01-4e8e-a5a4-304aa5097635",
+    "data": [
+      {
+        "text": "sampah kertas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

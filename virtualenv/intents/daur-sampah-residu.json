@@ -1,0 +1,35 @@
+{
+  "id": "77ba018d-964c-46bf-bd4f-f1565cf6b61d",
+  "name": "daur-sampah-residu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sampah Spesifik atau B3 (Bahan Berbahaya dan Beracun). Terdiri dari : baterai kering, lampu, alat elektronik yang tidak digunakan, aki bekas, obat kadaluarsa, oli bekas, alat medis yang tidak terpakai dan racun serangga. \nDaur ulang yang dapat dilakukan : Memberikannya kepada pengelola khusus badan daur ulang sampah B3 terdekat. Sampah Residu. Terdiri dari : pembalut, popok, puntung rokok, tisu, karet, kulit, kain, kayu.\nDaur ulang yang dapat dilakukan : membuat ecobrik dan membakarnya."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

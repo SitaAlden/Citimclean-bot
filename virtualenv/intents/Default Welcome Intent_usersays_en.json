@@ -1,0 +1,80 @@
+[
+  {
+    "id": "33eea213-953c-4c67-a60a-186228432071",
+    "data": [
+      {
+        "text": "Hallo CitimClean Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5f44f10-2da0-4adc-9a37-973e61c43ed0",
+    "data": [
+      {
+        "text": "CitimClean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "108ac3b2-a420-40cc-9ab2-82f9b646df4a",
+    "data": [
+      {
+        "text": "CitimClean Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e09fe2a8-cd9b-4968-a3b6-89a238a73ed8",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be4d9994-db45-4b11-b995-08f035256383",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8ca5f47-adbd-4829-b2dd-88ed922b1cb6",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

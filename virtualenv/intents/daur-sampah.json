@@ -1,0 +1,50 @@
+{
+  "id": "d540c5ec-df84-48e0-94d1-13eeb89b743d",
+  "name": "daur-sampah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4fab943-6482-4437-9277-d34bab0e4ab5",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "DAUR ULANG SAMPAH\nSilakan ketik kode daur ulang sampah dibawah ini untuk mengetahui cara mendaur ulang sampah.\nO untuk daur ulang sampah organik\nP untuk daur ulang sampah plastik\nQ untuk daur ulang sampah kertas\nG untuk daur ulang sampah kaca\nR untuk daur ulang sampah residu"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "9e0652f0-b7af-4fa8-b32b-f91c46f9576d",
+    "data": [
+      {
+        "text": "warna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f752e3b-afb4-4be1-8144-2db46ff31ee3",
+    "data": [
+      {
+        "text": "warna tempat sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afa35afe-2a74-4ea2-875f-fdd5ff505298",
+    "data": [
+      {
+        "text": "tempat sampah umum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75a8d53a-a4bb-4c02-bf89-da748148cb21",
+    "data": [
+      {
+        "text": "tempat sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98be3e36-ef07-4e1c-8712-5e96d3a50f25",
+    "data": [
+      {
+        "text": "jenis tempat sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d367f5fe-5b8e-4a13-bb38-1b89cec6fd49",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

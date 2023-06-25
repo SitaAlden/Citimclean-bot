@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1da43f8c-fa5b-49da-83ba-19896082bd61",
+    "data": [
+      {
+        "text": "lanjutkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48dd90c6-a94e-497c-8976-0ee9e4ee8b7e",
+    "data": [
+      {
+        "text": "lanjut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "782e1da2-52d0-4179-906e-caff6c5fcb1a",
+    "data": [
+      {
+        "text": "Apa saja menu nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e56c2e9d-d0ab-41c3-a5cb-5cd2d58951ce",
+    "data": [
+      {
+        "text": "ada",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " menu apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e739b58-73b1-4df2-82b3-4b4a07f2dc11",
+    "data": [
+      {
+        "text": "list ",
+        "userDefined": false
+      },
+      {
+        "text": "menu",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3828795a-5a74-4836-9793-b5be77cbd480",
+    "data": [
+      {
+        "text": "menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67748508-9c58-410e-9754-3525f8349f32",
+    "data": [
+      {
+        "text": "Halo ",
+        "userDefined": false
+      },
+      {
+        "text": "CitimClean",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bot",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "860f4c25-39bc-46e4-9b34-3c4a59082661",
+    "data": [
+      {
+        "text": "CitimClean",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bot",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

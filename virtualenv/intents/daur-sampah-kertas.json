@@ -1,0 +1,35 @@
+{
+  "id": "82df3e85-770d-47da-b325-aacebe784b69",
+  "name": "daur-sampah-kertas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Terdiri dari : koran, majalah, buku bekas, HVS, kardus, tetrapack.\nCara mengurangi sampah kertas : Gunakan kertas dua sisi. Untuk dokumen yang bersifat draft atau tidak terlalu penting, Cetaklah dua sisi, Gunakan kertas bekas, Simpan dokumen secara digital, Tidak perlu membagikan buku notes dalam seminar.\nDaur Ulang yang dapat dilakukan : Membuat kerajinan tangan, mengolah menjadi kertas kembali, tisu dan lainnya."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

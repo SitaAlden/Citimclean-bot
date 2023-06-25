@@ -1,0 +1,69 @@
+[
+  {
+    "id": "6f0f39dd-f8b2-483b-a30e-0f8b0c7da725",
+    "data": [
+      {
+        "text": "bagaimana cara daur ulang sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06228d94-5f3d-4c95-a6b8-16bd0f5c298b",
+    "data": [
+      {
+        "text": "daur ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6f6bb74-d8b6-41e1-a74c-f74a8d46c2a1",
+    "data": [
+      {
+        "text": "daur sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3999807-0e01-43fc-a5d6-056e1ab5ced4",
+    "data": [
+      {
+        "text": "daur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e55719a-e7ff-41c3-9a6b-29f26155c765",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

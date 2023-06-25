@@ -1,0 +1,55 @@
+{
+  "id": "f2f65032-59d3-4f95-a4f4-84b7370d646b",
+  "name": "MENU",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "48ea17ff-e734-4880-8066-d96d175fe822",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Berikut adalah beberapa list menu, yuk pilih salah satunya dengan mengetik nomor list!\n\n1. Tentang desa Cikampek Timur",
+            "2. Daur ulang sampah",
+            "3. Kelola sampah jadi uang",
+            "4. Jenis tempat sampah umum",
+            "5. TPS sampah terdekat",
+            "6. FAQ dan bantuan darurat sampah"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

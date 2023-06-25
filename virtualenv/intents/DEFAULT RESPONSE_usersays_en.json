@@ -1,0 +1,93 @@
+[
+  {
+    "id": "5315b5c6-72d7-4ed9-a9af-76e2bd05a585",
+    "data": [
+      {
+        "text": "Hallo Citimcalean Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61d34026-1432-4a17-a50f-829d8da7d1cc",
+    "data": [
+      {
+        "text": "CitimClean Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d987dadc-a32b-4a46-b85f-ea07d8bae2a7",
+    "data": [
+      {
+        "text": "ada layanan apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cfbbd03-3202-4f3f-a251-4a7d345bf590",
+    "data": [
+      {
+        "text": "list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feed8d76-6b21-4114-aa55-8878eedfed93",
+    "data": [
+      {
+        "text": "List menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13379b6a-1408-4f50-b4d9-bc1a94c691f4",
+    "data": [
+      {
+        "text": "Menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72a79b3c-fa04-49ed-bdad-91fcaea76a45",
+    "data": [
+      {
+        "text": "Hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

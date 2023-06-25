@@ -1,0 +1,95 @@
+[
+  {
+    "id": "f932137d-435d-4c72-8f18-1928fbb66dd2",
+    "data": [
+      {
+        "text": "pengepul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "689ad1d2-d6cd-4ae8-8ed5-5d3639e018e7",
+    "data": [
+      {
+        "text": "harga sampah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74690d34-a3c4-4a91-aea1-26b190633ec2",
+    "data": [
+      {
+        "text": "bagaimana cara kelola sampah jadi uang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eb074ea-f3da-401c-a9be-abe059b0174b",
+    "data": [
+      {
+        "text": "uang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86f41ba5-e36a-4d01-87d9-c51f318a64d9",
+    "data": [
+      {
+        "text": "sampah uang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d04e999f-f846-4b35-a44e-4de9c58fa461",
+    "data": [
+      {
+        "text": "Kelola sampah jadi uang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80439d65-1150-4a00-b40b-037ff1685f1b",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

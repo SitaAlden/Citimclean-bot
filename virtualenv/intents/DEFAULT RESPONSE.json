@@ -1,0 +1,35 @@
+{
+  "id": "c16183da-3b65-4d66-a3b3-b26f55588b2c",
+  "name": "DEFAULT RESPONSE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hallo! Selamat datang di chatbot CitimClean Bot!\nPerkenalkan aku asisten virtual yang akan memandu kamu.\nKetik MENU untuk menampilkan list menu atau..\n\nklik tombol lanjutkan untuk dapat petunjuk selanjutnya!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
