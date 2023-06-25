@@ -8,7 +8,7 @@ app = Flask(__name__)
 def hello():
     return "Hello, Berhasil Nih!"
 
-@app.route("/sms", methods=['POST'])
+@app.route("citimclean-bot-production.up.railway.app", methods=['POST'])
 def sms_reply():
     # Fetch the message
     msg = request.form.get('Body')
