@@ -23,9 +23,9 @@ def webhook():
 
     return "Success"
 
-def send_to_dialogflow(message, sender):
+def send_to_dialogflow(message):
     session_client = dialogflow.SessionsClient()
-    session = session_client.session_path("citimclean-bot-no9n", sender)  # Ganti dengan ID proyek dan ID sesi Anda
+    session = session_client.session_path("citimclean-bot-no9n", "+14155238886")  # Ganti dengan ID proyek dan ID sesi Anda
 
     text_input = dialogflow.TextInput(text=message, language_code="en")
     query_input = dialogflow.QueryInput(text=text_input)
@@ -40,7 +40,7 @@ def send_whatsapp_message(receiver, message):
 
     message = resp.to_xml()
 
-    client = Client("ACc4d61ca19d1f74e01a409aa757f4bb87", "[AuthToken]")  # Ganti dengan SID akun Twilio Anda dan token otentikasi
+    client = Client("ACc4d61ca19d1f74e01a409aa757f4bb87", "46a6284d8adf0c7a8cd8be27e2369322")  # Ganti dengan SID akun Twilio Anda dan token otentikasi
     client.messages.create(body=message, from_="+14155238886", to=receiver)  # Ganti dengan nomor telepon Twilio dan penerima
 
     return "Success"
