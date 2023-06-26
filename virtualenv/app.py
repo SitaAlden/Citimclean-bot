@@ -2,6 +2,7 @@ from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from utils import fetch_reply
 import google.cloud.dialogflow as dialogflow
+from twilio.rest import Client
 
 app = Flask(__name__)
 
@@ -39,7 +40,7 @@ def send_whatsapp_message(receiver, message):
 
     message = resp.to_xml()
 
-    client = twilio.Twilio("ACc4d61ca19d1f74e01a409aa757f4bb87", "[AuthToken]")  # Ganti dengan SID akun Twilio Anda dan token otentikasi
+    client = Client("ACc4d61ca19d1f74e01a409aa757f4bb87", "[AuthToken]")  # Ganti dengan SID akun Twilio Anda dan token otentikasi
     client.messages.create(body=message, from_="+14155238886", to=receiver)  # Ganti dengan nomor telepon Twilio dan penerima
 
     return "Success"
