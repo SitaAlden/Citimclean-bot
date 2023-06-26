@@ -1,6 +1,7 @@
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from utils import fetch_reply
+import google.cloud.dialogflow as dialogflow
 
 app = Flask(__name__)
 
@@ -8,17 +9,41 @@ app = Flask(__name__)
 def hello():
     return "Hello, Berhasil Nih!"
 
-@app.route("/sms", methods=['POST'])
-def sms_reply():
-    # Fetch the message
-    msg = request.form.get('Body')
-    phone_no = request.form.get('From')
-    reply = fetch_reply(msg, phone_no)
+@app.route("/webhook", methods=["POST"])
+def webhook():
+    message = request.form.get("Body")
+    sender = request.form.get("From")
 
-    # Create reply
+    # Kirim pesan ke Dialogflow untuk memperoleh respons
+    response = send_to_dialogflow(message)
+
+    # Kirim respons ke pengguna WhatsApp
+    send_whatsapp_message(sender, response)
+
+    return "Success"
+
+def send_to_dialogflow(message, sender):
+    session_client = dialogflow.SessionsClient()
+    session = session_client.session_path("citimclean-bot-no9n", sender)  # Ganti dengan ID proyek dan ID sesi Anda
+
+    text_input = dialogflow.TextInput(text=message, language_code="en")
+    query_input = dialogflow.QueryInput(text=text_input)
+
+    response = session_client.detect_intent(session=session, query_input=query_input)
+
+    return response.query_result.fulfillment_text
+
+def send_whatsapp_message(receiver, message):
     resp = MessagingResponse()
-    resp.message(reply)
-    return str(resp)
+    resp.message(message)
+
+    message = resp.to_xml()
+
+    client = twilio.Twilio("ACc4d61ca19d1f74e01a409aa757f4bb87", "[AuthToken]")  # Ganti dengan SID akun Twilio Anda dan token otentikasi
+    client.messages.create(body=message, from_="+14155238886", to=receiver)  # Ganti dengan nomor telepon Twilio dan penerima
+
+    return "Success"
+
 
 if __name__ == "__main__":
     app.run(debug=True)
