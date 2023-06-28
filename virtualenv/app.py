@@ -47,4 +47,10 @@ def send_whatsapp_message(receiver, message):
 
 
 if __name__ == "__main__":
+    # Konfigurasi host dan port
+    host = '0.0.0.0'  # Mengubah host menjadi 0.0.0.0
+    port = 5000  # Mengubah port menjadi nomor port yang Anda inginkan (misalnya 5000)
+
+    # Menjalankan aplikasi
+    app.run(host=host, port=port)
     app.run(debug=True)
